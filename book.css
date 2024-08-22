@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.5s;
+  transition: 0.5s;
+  background: linear-gradient(90deg,#865c5c 50%,#4a1010 50%);
+  background-image: url("C:\Users/rupes/OneDrive/Videos/Pictures/Pictures/book/html2.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+
+}
+
